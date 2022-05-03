@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T03:47:27.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="kK7qo3qBePrroK3Pf-_m" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T03:48:11.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-KaN1-4k7G8q_yvsAp23" version="17.5.0" type="github">
   <diagram id="D_wyHHUxT-MBhRSzcZ0j" name="Page-1">
     <mxGraphModel dx="1504" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -431,8 +431,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="347.5" y="715" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="289.5" y="685" />
-              <mxPoint x="347.5" y="685" />
+              <mxPoint x="289" y="700" />
+              <mxPoint x="348" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -445,7 +445,7 @@
             <mxPoint x="437.5" y="825" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kd1rJjLntRFQYtOudvJg-125" value="MOORE&lt;br&gt;Transiciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Kd1rJjLntRFQYtOudvJg-125" value="&lt;b&gt;MOORE&lt;/b&gt;&lt;br&gt;&lt;br&gt;Transiciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="645" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
