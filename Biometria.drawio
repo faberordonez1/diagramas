@@ -461,7 +461,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kjNp1NDk2P8cJkxhOJ8Y-27" value="Biometria&lt;br&gt;sf-biometria-crm" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="231.25" y="-165" width="120" height="40" as="geometry" />
+          <mxGeometry x="175" y="-165" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kjNp1NDk2P8cJkxhOJ8Y-30" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.39;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kjNp1NDk2P8cJkxhOJ8Y-17" target="kjNp1NDk2P8cJkxhOJ8Y-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -571,7 +571,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O0I4KgwnlA1w03R8bPDR-1" value="1. Control para Autenticar si no existe en Local ya que biometria es centralizada&lt;br&gt;2. Actualizar o completar&amp;nbsp; el tercero si no esta actualizado en local" style="text;html=1;whiteSpace=wrap;strokeColor=#006EAF;fillColor=#1ba1e2;align=left;verticalAlign=middle;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-1" value="1. Control para Autenticar si no existe en Local ya que biometria es centralizada&lt;br&gt;(No se puede pasar en true porque la segunda vez pide autenticar)&lt;br&gt;2. Actualizar o completar&amp;nbsp; el tercero si no esta actualizado en local" style="text;html=1;whiteSpace=wrap;strokeColor=#006EAF;fillColor=#1ba1e2;align=left;verticalAlign=middle;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="400" y="-410" width="430" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O0I4KgwnlA1w03R8bPDR-2" value="T" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=none;dashed=1;dashPattern=8 8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
