@@ -564,7 +564,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tmgzqnrxOIquIkPdAJhw-13" value="1. Control para autenticar si no existe en local pero si en biometria&lt;div&gt;2. Actualizar si la data local no corresponde&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#006EAF;fillColor=#1ba1e2;align=left;verticalAlign=middle;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="tmgzqnrxOIquIkPdAJhw-13" value="1. Control autenticación si no existe en local pero si en biometria&lt;div&gt;2. Actualizar si la data local no corresponde&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#006EAF;fillColor=#1ba1e2;align=left;verticalAlign=middle;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-320" y="770" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tmgzqnrxOIquIkPdAJhw-14" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
