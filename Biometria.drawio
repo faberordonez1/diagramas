@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7" pages="3">
   <diagram name="Biometria" id="79feQSnU4Pidzu1CZ-s2">
-    <mxGraphModel dx="2141" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2415" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -570,6 +570,56 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-1" value="1. Control para Autenticar si no existe en Local ya que biometria es centralizada&lt;br&gt;2. Actualizar o completar&amp;nbsp; el tercero si no esta actualizado en local" style="text;html=1;whiteSpace=wrap;strokeColor=#006EAF;fillColor=#1ba1e2;align=left;verticalAlign=middle;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-410" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-2" value="T" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=none;dashed=1;dashPattern=8 8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-1010" width="440" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O0I4KgwnlA1w03R8bPDR-4" target="O0I4KgwnlA1w03R8bPDR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-4" value="Carga Parametros" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-42.5" y="-990" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-5" value="TerceroLocalParam" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O0I4KgwnlA1w03R8bPDR-6" target="O0I4KgwnlA1w03R8bPDR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-6" value="Ingreso Documento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-42.5" y="-920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-7" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="2.5" y="-550" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-8" value="TerceroLocal" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O0I4KgwnlA1w03R8bPDR-9" target="O0I4KgwnlA1w03R8bPDR-7">
+          <mxGeometry x="-0.5116" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-9" value="Tercero Modal&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(SETA_MA_TERCERO)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-113.75" y="-785" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-10" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="O0I4KgwnlA1w03R8bPDR-11" target="O0I4KgwnlA1w03R8bPDR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6.25" y="-840" width="22.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-13" value="Biometria&lt;br&gt;sf-biometria-crm" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="-785" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-14" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.39;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O0I4KgwnlA1w03R8bPDR-11" target="O0I4KgwnlA1w03R8bPDR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="O0I4KgwnlA1w03R8bPDR-16" target="O0I4KgwnlA1w03R8bPDR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-16" value="Tercero Biometria" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-690" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O0I4KgwnlA1w03R8bPDR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.55;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O0I4KgwnlA1w03R8bPDR-13" target="O0I4KgwnlA1w03R8bPDR-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
