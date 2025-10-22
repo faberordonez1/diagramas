@@ -638,7 +638,7 @@
         <mxCell id="Cexmr9aQcolr9aaVnaLb-1" value="Params" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Cexmr9aQcolr9aaVnaLb-9" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cexmr9aQcolr9aaVnaLb-2" target="Cexmr9aQcolr9aaVnaLb-8">
+        <mxCell id="Cexmr9aQcolr9aaVnaLb-9" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.675;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cexmr9aQcolr9aaVnaLb-2" target="Cexmr9aQcolr9aaVnaLb-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cexmr9aQcolr9aaVnaLb-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cexmr9aQcolr9aaVnaLb-2" target="Cexmr9aQcolr9aaVnaLb-18">
@@ -658,7 +658,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cexmr9aQcolr9aaVnaLb-8" value="Login usuario contrasena" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="107.5" width="165" height="35" as="geometry" />
+          <mxGeometry x="35" y="145" width="165" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="Cexmr9aQcolr9aaVnaLb-13" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Web Biometria&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="720" y="135" width="133" height="45" as="geometry" />
