@@ -735,8 +735,8 @@
         <mxCell id="uEAH8QzgSMkpffN9Q5ZK-29" value="TERCERO o NULL" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-540" y="75" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eplcdHhqsWrV97K9-53m-1" value="1. CRM Solicita autenticacion unicamente cuando no existe en tercero Local&lt;br&gt;2. Retiro BETPLAY siempre solicita autenticacion&lt;br&gt;3.Pago de premios ADMIN y POS, Solicita dependiendo de parametro" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="415" y="-540" width="440" height="100" as="geometry" />
+        <mxCell id="eplcdHhqsWrV97K9-53m-1" value="Mejora General Eliminar el parametro requiere autenticar interno y dejar solo implementacion con input&amp;nbsp; (Actualemente requiereAutenticar y Input)&lt;br&gt;&lt;br&gt;1. CRM Solicita autenticacion unicamente cuando no existe en tercero Local&amp;nbsp;&lt;br&gt;Mejora&lt;br&gt;2. Retiro BETPLAY siempre solicita autenticacion&lt;br&gt;3.Pago de premios ADMIN y POS, Solicita dependiendo de parametro" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-540" width="490" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
