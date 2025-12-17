@@ -1234,9 +1234,6 @@
         <mxCell id="SIW0n13PTvR12FoyFb_J-26" edge="1" parent="SIW0n13PTvR12FoyFb_J-24" source="SIW0n13PTvR12FoyFb_J-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=14;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=6;entryPerimeter=0;" target="SIW0n13PTvR12FoyFb_J-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SIW0n13PTvR12FoyFb_J-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Apoyo a Jesus Admin Tabla&lt;br&gt;Despliegue Libreria Front Fallo&lt;div&gt;Modal Pago Premios (Ajuste Recaudos)&lt;br&gt;Bug Expira Sesion&lt;/div&gt;&lt;div&gt;&lt;br&gt;Pedir soporte&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="230" x="50" y="520" as="geometry" />
-        </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-29" edge="1" parent="1" source="SIW0n13PTvR12FoyFb_J-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="SIW0n13PTvR12FoyFb_J-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
