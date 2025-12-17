@@ -1086,7 +1086,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SIW0n13PTvR12FoyFb_J-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Centralizada" vertex="1">
+        <mxCell id="SIW0n13PTvR12FoyFb_J-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=light-dark(#000000,#99CCFF);" value="Centralizada" vertex="1">
           <mxGeometry height="80" width="110" x="920" y="185" as="geometry" />
         </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-9" edge="1" parent="1" source="SIW0n13PTvR12FoyFb_J-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SIW0n13PTvR12FoyFb_J-4">
@@ -1109,7 +1109,7 @@
         <mxCell id="SIW0n13PTvR12FoyFb_J-30" edge="1" parent="1" source="SIW0n13PTvR12FoyFb_J-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SIW0n13PTvR12FoyFb_J-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SIW0n13PTvR12FoyFb_J-4" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="Web Biometria" vertex="1">
+        <mxCell id="SIW0n13PTvR12FoyFb_J-4" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=light-dark(#000000,#66B2FF);" value="Web Biometria" vertex="1">
           <mxGeometry height="50" width="140" x="730" y="110" as="geometry" />
         </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-5" parent="SIW0n13PTvR12FoyFb_J-4" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
@@ -1117,7 +1117,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SIW0n13PTvR12FoyFb_J-6" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="ms-biometria" vertex="1">
+        <mxCell id="SIW0n13PTvR12FoyFb_J-6" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=light-dark(#000000,#66B2FF);" value="ms-biometria" vertex="1">
           <mxGeometry height="50" width="140" x="730" y="200" as="geometry" />
         </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-7" parent="SIW0n13PTvR12FoyFb_J-6" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
