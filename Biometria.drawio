@@ -1180,7 +1180,7 @@
           <mxGeometry height="80" width="250" x="520" y="330" as="geometry" />
         </mxCell>
         <mxCell id="7KTU-MG8nd5M-QmC6omk-27" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Centralizada" vertex="1">
-          <mxGeometry height="80" width="110" x="885" y="775" as="geometry" />
+          <mxGeometry height="80" width="110" x="920" y="575" as="geometry" />
         </mxCell>
         <mxCell id="7KTU-MG8nd5M-QmC6omk-28" edge="1" parent="1" source="7KTU-MG8nd5M-QmC6omk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7KTU-MG8nd5M-QmC6omk-34">
           <mxGeometry relative="1" as="geometry" />
@@ -1189,7 +1189,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7KTU-MG8nd5M-QmC6omk-30" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="WAF" vertex="1">
-          <mxGeometry height="50" width="140" x="445" y="750" as="geometry" />
+          <mxGeometry height="50" width="140" x="480" y="550" as="geometry" />
         </mxCell>
         <mxCell id="7KTU-MG8nd5M-QmC6omk-31" parent="7KTU-MG8nd5M-QmC6omk-30" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
           <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
@@ -1203,7 +1203,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7KTU-MG8nd5M-QmC6omk-34" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="Web Biometria" vertex="1">
-          <mxGeometry height="50" width="140" x="695" y="700" as="geometry" />
+          <mxGeometry height="50" width="140" x="730" y="500" as="geometry" />
         </mxCell>
         <mxCell id="7KTU-MG8nd5M-QmC6omk-35" parent="7KTU-MG8nd5M-QmC6omk-34" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
           <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
@@ -1211,7 +1211,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7KTU-MG8nd5M-QmC6omk-36" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="ms-biometria" vertex="1">
-          <mxGeometry height="50" width="140" x="695" y="790" as="geometry" />
+          <mxGeometry height="50" width="140" x="730" y="590" as="geometry" />
         </mxCell>
         <mxCell id="7KTU-MG8nd5M-QmC6omk-37" parent="7KTU-MG8nd5M-QmC6omk-36" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
           <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
@@ -1225,7 +1225,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7KTU-MG8nd5M-QmC6omk-41" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="Login" vertex="1">
-          <mxGeometry height="50" width="140" x="205" y="750" as="geometry" />
+          <mxGeometry height="50" width="140" x="240" y="550" as="geometry" />
         </mxCell>
         <mxCell id="7KTU-MG8nd5M-QmC6omk-42" parent="7KTU-MG8nd5M-QmC6omk-41" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
           <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
@@ -1236,15 +1236,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7KTU-MG8nd5M-QmC6omk-44" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="SISE_MA_USUARIO&lt;br&gt;TIENE BIOMETRIA CENTRAL" vertex="1">
-          <mxGeometry height="85" width="170" x="190" y="865" as="geometry" />
+          <mxGeometry height="85" width="170" x="225" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="7KTU-MG8nd5M-QmC6omk-52" edge="1" parent="1" source="7KTU-MG8nd5M-QmC6omk-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="7KTU-MG8nd5M-QmC6omk-44" value="">
+        <mxCell id="7KTU-MG8nd5M-QmC6omk-52" edge="1" parent="1" source="7KTU-MG8nd5M-QmC6omk-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7KTU-MG8nd5M-QmC6omk-54" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="880" as="sourcePoint" />
+            <mxPoint x="310" y="680" as="sourcePoint" />
+            <mxPoint x="300" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7KTU-MG8nd5M-QmC6omk-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;* Login POS (Enrolamiento Login - Security)&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;* Login Admin y Security (Security)&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="376" x="414" y="877.5" as="geometry" />
+          <mxGeometry height="60" width="376" x="449" y="677.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7KTU-MG8nd5M-QmC6omk-54" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="ms-core-usuario" vertex="1">
+          <mxGeometry height="50" width="140" x="240" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="7KTU-MG8nd5M-QmC6omk-55" parent="7KTU-MG8nd5M-QmC6omk-54" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7KTU-MG8nd5M-QmC6omk-56" edge="1" parent="7KTU-MG8nd5M-QmC6omk-54" source="7KTU-MG8nd5M-QmC6omk-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=14;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=6;entryPerimeter=0;" target="7KTU-MG8nd5M-QmC6omk-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KTU-MG8nd5M-QmC6omk-59" edge="1" parent="1" source="7KTU-MG8nd5M-QmC6omk-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="7KTU-MG8nd5M-QmC6omk-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
