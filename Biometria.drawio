@@ -1176,8 +1176,8 @@
         <mxCell id="SIW0n13PTvR12FoyFb_J-29" edge="1" parent="1" source="SIW0n13PTvR12FoyFb_J-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="SIW0n13PTvR12FoyFb_J-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WDPjv5mObQ68OaM4PQlE-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="* CRM POS&lt;div&gt;* Pago Premios POS y Admin&lt;/div&gt;&lt;div&gt;* Retiros Betplay&lt;/div&gt;&lt;div&gt;* Remesas*&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="170" x="70" y="480" as="geometry" />
+        <mxCell id="WDPjv5mObQ68OaM4PQlE-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;* CRM POS&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;* Pago Premios POS y Admin&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;* Retiros Betplay&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;* Remesas*&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="250" x="60" y="505" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
