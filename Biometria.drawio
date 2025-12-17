@@ -1148,7 +1148,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SIW0n13PTvR12FoyFb_J-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Centralizada" vertex="1">
-          <mxGeometry height="80" width="110" x="910" y="160" as="geometry" />
+          <mxGeometry height="80" width="110" x="920" y="185" as="geometry" />
         </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-9" edge="1" parent="1" source="SIW0n13PTvR12FoyFb_J-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SIW0n13PTvR12FoyFb_J-4">
           <mxGeometry relative="1" as="geometry" />
@@ -1157,7 +1157,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-2" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="WAF" vertex="1">
-          <mxGeometry height="50" width="140" x="540" y="160" as="geometry" />
+          <mxGeometry height="50" width="140" x="480" y="160" as="geometry" />
         </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-3" parent="SIW0n13PTvR12FoyFb_J-2" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
           <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
@@ -1165,6 +1165,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-8" edge="1" parent="SIW0n13PTvR12FoyFb_J-2" source="SIW0n13PTvR12FoyFb_J-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=14;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=6;entryPerimeter=0;" target="SIW0n13PTvR12FoyFb_J-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIW0n13PTvR12FoyFb_J-30" edge="1" parent="1" source="SIW0n13PTvR12FoyFb_J-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SIW0n13PTvR12FoyFb_J-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-4" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="Web Biometria" vertex="1">
@@ -1204,10 +1207,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-15" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="SETA_MA_TECERO" vertex="1">
-          <mxGeometry height="90" width="140" x="230" y="320" as="geometry" />
+          <mxGeometry height="90" width="140" x="240" y="340" as="geometry" />
         </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-16" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="ms terceros" vertex="1">
-          <mxGeometry height="50" width="140" x="240" y="230" as="geometry" />
+          <mxGeometry height="50" width="140" x="240" y="240" as="geometry" />
         </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-17" parent="SIW0n13PTvR12FoyFb_J-16" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
           <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
@@ -1217,14 +1220,11 @@
         <mxCell id="SIW0n13PTvR12FoyFb_J-18" edge="1" parent="SIW0n13PTvR12FoyFb_J-16" source="SIW0n13PTvR12FoyFb_J-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=14;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=6;entryPerimeter=0;" target="SIW0n13PTvR12FoyFb_J-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SIW0n13PTvR12FoyFb_J-19" edge="1" parent="1" source="SIW0n13PTvR12FoyFb_J-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.579;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" target="SIW0n13PTvR12FoyFb_J-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-27" edge="1" parent="1" source="SIW0n13PTvR12FoyFb_J-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SIW0n13PTvR12FoyFb_J-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-24" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="Front Admin Pago Premios" vertex="1">
-          <mxGeometry height="50" width="140" x="60" y="160" as="geometry" />
+          <mxGeometry height="50" width="210" y="160" as="geometry" />
         </mxCell>
         <mxCell id="SIW0n13PTvR12FoyFb_J-25" parent="SIW0n13PTvR12FoyFb_J-24" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
           <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
@@ -1234,8 +1234,11 @@
         <mxCell id="SIW0n13PTvR12FoyFb_J-26" edge="1" parent="SIW0n13PTvR12FoyFb_J-24" source="SIW0n13PTvR12FoyFb_J-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=14;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=6;entryPerimeter=0;" target="SIW0n13PTvR12FoyFb_J-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SIW0n13PTvR12FoyFb_J-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Bug Expira Sesion&lt;br&gt;Apoyo a Jesus&amp;nbsp;&lt;br&gt;Despliegue Libreria Front Fallo&lt;div&gt;Modal Pago Premios (Ajuste Recaudos)&lt;/div&gt;&lt;div&gt;&lt;br&gt;Pedir soporte&lt;/div&gt;" vertex="1">
+        <mxCell id="SIW0n13PTvR12FoyFb_J-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Apoyo a Jesus Admin Tabla&lt;br&gt;Despliegue Libreria Front Fallo&lt;div&gt;Modal Pago Premios (Ajuste Recaudos)&lt;br&gt;Bug Expira Sesion&lt;/div&gt;&lt;div&gt;&lt;br&gt;Pedir soporte&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="230" x="50" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="SIW0n13PTvR12FoyFb_J-29" edge="1" parent="1" source="SIW0n13PTvR12FoyFb_J-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="SIW0n13PTvR12FoyFb_J-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
