@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Página-1" id="JJ-6AP-NY8bxrWLGkSCm">
+    <mxGraphModel dx="1281" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-4" edge="1" parent="1" source="NcG1ogn63-SeFIiV7bqq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="NcG1ogn63-SeFIiV7bqq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Usuario" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Categoria" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Usuario-Categoria" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-5" edge="1" parent="1" source="NcG1ogn63-SeFIiV7bqq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.575;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" target="NcG1ogn63-SeFIiV7bqq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Relacion TR y Subproductos" vertex="1">
+          <mxGeometry height="60" width="120" x="10" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Campos Tablas TR" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Relacion Campos Tablas TR" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Columna calculo participacion" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Retencion en la fuente" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Maestra Correo participacion" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Config Rangos&lt;br&gt;&lt;br&gt;* Aplica siempre y cuando este en el rango&lt;br&gt;* Si supera los rango configurados seria 0&lt;br&gt;&lt;br&gt;* No es acumulable en valor Fijo&lt;br&gt;* Participacion empresa primero empresa y luego al asesor" vertex="1">
+          <mxGeometry height="180" width="230" x="50" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="PLANTILLA PART OTRO SUBPRODUCTO&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="230" x="310" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Asignar Participacion" vertex="1">
+          <mxGeometry height="55" width="130" x="570" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Tope Participacion&lt;br&gt;&lt;br&gt;(Tope pago x dia)" vertex="1">
+          <mxGeometry height="55" width="130" x="730" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="PERIODO PAGO&lt;br&gt;&lt;br&gt;* Diario, Mensual Semanal etc" vertex="1">
+          <mxGeometry height="70" width="130" x="880" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="PROCESOS AUTOMATICOS&lt;br&gt;(Antes Cierre empresa)&lt;br&gt;&lt;br&gt;Del Dia Anterio" vertex="1">
+          <mxGeometry height="80" width="130" x="1030" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="ACTIVAR PAGOS PARTICIPACION - AHORRO&lt;br&gt;&lt;br&gt;*" vertex="1">
+          <mxGeometry height="80" width="130" x="1190" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="NcG1ogn63-SeFIiV7bqq-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="REIMPRESION PARTICIPACION" vertex="1">
+          <mxGeometry height="80" width="130" x="1510" y="395" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
